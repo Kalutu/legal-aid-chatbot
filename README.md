@@ -2,6 +2,9 @@
 
 This project is an AI-powered legal chatbot developed as a final year project for a Computer Science degree. The chatbot is designed to provide accessible legal aid and guidance to users by leveraging advanced AI technologies. It features functionalities such as user registration, login, legal query processing, incident reporting, and administrative tools.
 
+## Admin Preview
+![Admin Pgae](preview.jpg)
+
 ## Features
 
 - **User Registration and Login:** Secure authentication system for users.
